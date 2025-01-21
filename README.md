@@ -93,15 +93,7 @@ The dataset used in this project contains information on 25,976 airline passenge
 
 ## Dashboard Visualization
 
-To present the insights and recommendations effectively, a comprehensive dashboard can be created using Tableau. The dashboard components include:
-
-1. **Overall Satisfaction Pie Chart**
-2. **Customer Type Bar Chart**
-3. **Class of Service Bar Chart**
-4. **Key Factors Influencing Satisfaction Heatmap**
-5. **Service Ratings Box Plot**
-6. **Departure and Arrival Delays Scatter Plot**
-7. **Passenger Demographics**
+```https://public.tableau.com/app/profile/yohanes.raditya.wirawan.aruan/viz/M1v2/Dashboard1?publish=yes```
 
 ## How to Run the Project
 
