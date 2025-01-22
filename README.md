@@ -92,8 +92,6 @@ The dataset used in this project contains information on 25,976 airline passenge
    - Identify and address the reasons for dissatisfaction among disloyal customers.
 
 ## Dashboard Visualization
-   ![Uploading Screenshot 2025-01-22 at 16.56.57.png…]()
-
       https://public.tableau.com/app/profile/yohanes.raditya.wirawan.aruan/viz/AirlineSatisfaction_17375339929560/Dashboard1
 
 ## How to Run the Project
