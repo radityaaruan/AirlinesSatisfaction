@@ -94,7 +94,7 @@ The dataset used in this project contains information on 25,976 airline passenge
 ## Dashboard Visualization
    ![Uploading Screenshot 2025-01-22 at 16.56.57.png…]()
 
-      https://haproxy-traffic-splitter/views/AirlineSatisfaction_17375339929560/Dashboard1?:language=en-US&publish=yes&:sid=BCEAD032703F4A81AA2D9D0D5792A248-0:0&:redirect=auth&:display_count=n&:origin=viz_share_link
+      https://public.tableau.com/app/profile/yohanes.raditya.wirawan.aruan/viz/AirlineSatisfaction_17375339929560/Dashboard1
 
 ## How to Run the Project
 
