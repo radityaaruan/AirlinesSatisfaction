@@ -93,7 +93,7 @@ The dataset used in this project contains information on 25,976 airline passenge
 
 ## Dashboard Visualization
    
-      https://public.tableau.com/app/profile/yohanes.raditya.wirawan.aruan/viz/M1v2/Dashboard1?publish=yes
+      publish=yeshttps://public.tableau.com/app/profile/yohanes.raditya.wirawan.aruan/viz/AirlineSatisfaction_17375339929560/Dashboard1?publish=yes
 
 ## How to Run the Project
 
