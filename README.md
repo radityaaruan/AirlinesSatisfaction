@@ -92,7 +92,8 @@ The dataset used in this project contains information on 25,976 airline passenge
    - Identify and address the reasons for dissatisfaction among disloyal customers.
 
 ## Dashboard Visualization
-   
+   ![Uploading Screenshot 2025-01-22 at 16.56.57.png…]()
+
       https://haproxy-traffic-splitter/views/AirlineSatisfaction_17375339929560/Dashboard1?:language=en-US&publish=yes&:sid=BCEAD032703F4A81AA2D9D0D5792A248-0:0&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## How to Run the Project
@@ -101,3 +102,5 @@ The dataset used in this project contains information on 25,976 airline passenge
    ```bash
    git clone https://github.com/yourusername/airline-passenger-satisfaction.git
    cd airline-passenger-satisfaction
+
+   
