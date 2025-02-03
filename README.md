@@ -1,104 +1,92 @@
-# Airline Passenger Satisfaction Analysis
+# ✈️ Airline Passenger Satisfaction Analysis  
+🚀 **Analisis Data untuk Meningkatkan Pengalaman Penumpang Maskapai**  
 
-## Project Overview
+## 📌 Project Overview  
 
-This project aims to analyze airline passenger satisfaction using a dataset containing various service attributes and demographic information. The goal is to identify key factors influencing passenger satisfaction and provide actionable insights for improving airline services.
+Bagaimana kepuasan penumpang maskapai dapat ditingkatkan? Proyek ini melakukan **analisis data penerbangan** untuk mengidentifikasi **faktor utama yang memengaruhi kepuasan pelanggan**, menggunakan metode **data analytics & business intelligence**.  
 
-## Dataset
+🔍 **Apa yang bisa dipelajari?**  
+✅ Menggunakan **data analytics** untuk memahami kepuasan pelanggan  
+✅ Menerapkan **machine learning** untuk mengidentifikasi pola kepuasan  
+✅ Memanfaatkan **business intelligence tools** untuk pengambilan keputusan  
 
-The dataset used in this project contains information on 25,976 airline passengers, including their satisfaction levels, demographic details, and ratings for various service attributes. The dataset includes the following columns:
+---
 
-- `id`: Unique identifier for each passenger
-- `gender`: Gender of the passenger
-- `customer type`: Type of customer (Loyal or Disloyal)
-- `age`: Age of the passenger
-- `type of travel`: Type of travel (Business or Personal)
-- `class`: Class of service (Economy, Business, First Class)
-- `flight distance`: Distance of the flight
-- `inflight wifi service`: Rating for inflight wifi service
-- `departure/arrival time convenient`: Rating for departure/arrival time convenience
-- `ease of online booking`: Rating for ease of online booking
-- `gate location`: Rating for gate location
-- `food and drink`: Rating for food and drink
-- `online boarding`: Rating for online boarding
-- `seat comfort`: Rating for seat comfort
-- `inflight entertainment`: Rating for inflight entertainment
-- `on-board service`: Rating for on-board service
-- `leg room service`: Rating for leg room service
-- `baggage handling`: Rating for baggage handling
-- `checkin service`: Rating for checkin service
-- `inflight service`: Rating for inflight service
-- `cleanliness`: Rating for cleanliness
-- `departure delay in minutes`: Departure delay in minutes
-- `arrival delay in minutes`: Arrival delay in minutes
-- `satisfaction`: Overall satisfaction (Satisfied or Neutral/Dissatisfied)
+## 📊 **Dataset**  
 
-## Key Insights
+Dataset ini berisi **25,976 data penumpang maskapai** dengan berbagai atribut layanan dan informasi demografis.  
 
-1. **Overall Satisfaction**:
-   - Satisfied Passengers: 43.9%
-   - Neutral or Dissatisfied Passengers: 56.1%
+📌 **Fitur dalam dataset** meliputi:  
+- 🆔 **id** – Identifikasi unik penumpang  
+- 👤 **gender** – Jenis kelamin penumpang  
+- 🎟️ **customer type** – Jenis pelanggan (Loyal atau Disloyal)  
+- ✈️ **type of travel** – Jenis perjalanan (Bisnis atau Pribadi)  
+- 🏆 **class** – Kelas layanan (Ekonomi, Bisnis, First Class)  
+- 📡 **inflight wifi service** – Rating layanan WiFi di pesawat  
+- 🍽️ **food and drink** – Penilaian makanan & minuman di pesawat  
+- 💺 **seat comfort** – Kenyamanan tempat duduk  
+- 🎬 **inflight entertainment** – Hiburan selama penerbangan  
+- 🧹 **cleanliness** – Kebersihan pesawat  
+- ⏳ **departure/arrival delay** – Keterlambatan keberangkatan & kedatangan  
+- ⭐ **satisfaction** – Tingkat kepuasan (Satisfied atau Neutral/Dissatisfied)  
 
-2. **Customer Type**:
-   - Loyal Customers:
-     - Satisfied: 89.4%
-     - Neutral or Dissatisfied: 75.4%
-   - Disloyal Customers:
-     - Satisfied: 10.6%
-     - Neutral or Dissatisfied: 24.6%
+---
 
-3. **Class of Service**:
-   - Neutral or Dissatisfied Customers by Class:
-     - Economy: Highest percentage
-     - Business: Moderate percentage
-     - First Class: Lowest percentage
-   - Satisfied Customers by Class:
-     - First Class: Highest percentage
-     - Business: Moderate percentage
-     - Economy: Lowest percentage
+## 🔎 **Key Insights**  
 
-4. **Key Factors Influencing Satisfaction**:
-   - Online Boarding: Strong positive correlation with satisfaction.
-   - Inflight Entertainment: Strong positive correlation with satisfaction.
-   - Seat Comfort: Moderate positive correlation with satisfaction.
-   - Inflight Wifi Service: Moderate positive correlation with satisfaction.
-   - Food and Drink: Moderate positive correlation with satisfaction.
-   - Cleanliness: Moderate positive correlation with satisfaction.
+📊 **Tingkat Kepuasan**  
+✅ **43.9%** penumpang merasa puas  
+❌ **56.1%** penumpang netral atau tidak puas  
 
-## Business Recommendations
+💡 **Faktor Utama yang Mempengaruhi Kepuasan**:  
+🔥 **Online Boarding** → Faktor paling berpengaruh terhadap kepuasan  
+🎬 **Inflight Entertainment** → Kontribusi besar terhadap pengalaman pelanggan  
+💺 **Seat Comfort** → Pengaruh moderat terhadap kepuasan pelanggan  
+📡 **Inflight Wifi** → Pengaruh moderat terhadap pengalaman penumpang  
 
-1. **Enhance Online Boarding Experience**:
-   - Streamline the online boarding process to make it more user-friendly and efficient.
+📊 **Analisis Berdasarkan Kelas Penerbangan**:  
+🏆 **First Class** → Paling tinggi tingkat kepuasannya  
+💼 **Business Class** → Kepuasan moderat  
+🛫 **Economy Class** → Kepuasan terendah (perlu peningkatan layanan!)  
 
-2. **Improve Inflight Entertainment**:
-   - Upgrade the inflight entertainment system by offering a wider variety of content.
+---
 
-3. **Increase Seat Comfort**:
-   - Invest in more comfortable seating across all classes, especially in Economy class.
+## 💼 **Business Intelligence Recommendations**  
 
-4. **Enhance Inflight Wifi Service**:
-   - Improve the quality and reliability of inflight wifi by investing in better technology.
+📈 **Bagaimana Maskapai Bisa Meningkatkan Layanan?**  
 
-5. **Upgrade Food and Drink Options**:
-   - Enhance the quality and variety of food and drink options available on flights.
+✅ **Tingkatkan Pengalaman Online Boarding**  
+   ➝ Buat proses boarding lebih cepat & efisien untuk meningkatkan kenyamanan pelanggan.  
 
-6. **Maintain High Standards of Cleanliness**:
-   - Ensure that the aircraft is thoroughly cleaned and sanitized before each flight.
+✅ **Upgrade Inflight Entertainment**  
+   ➝ Tambahkan lebih banyak pilihan hiburan untuk semua penumpang.  
 
-7. **Focus on Loyal Customers**:
-   - Develop loyalty programs and incentives to retain loyal customers.
+✅ **Perbaiki Kenyamanan Kursi, Terutama di Kelas Ekonomi**  
+   ➝ Investasi dalam kursi ergonomis untuk meningkatkan pengalaman pelanggan.  
 
-8. **Address Issues for Disloyal Customers**:
-   - Identify and address the reasons for dissatisfaction among disloyal customers.
+✅ **Perbaiki Layanan WiFi di Pesawat**  
+   ➝ Tingkatkan stabilitas dan kecepatan internet agar tetap terhubung di udara.  
 
-## Dashboard Visualization
-      https://public.tableau.com/app/profile/yohanes.raditya.wirawan.aruan/viz/AirlineSatisfaction_17375339929560/Dashboard1
+✅ **Fokus pada Pelanggan Loyal**  
+   ➝ Buat **loyalty program** untuk meningkatkan retensi pelanggan.  
 
-## How to Run the Project
+✅ **Perbaiki Kualitas Makanan & Minuman**  
+   ➝ Sediakan lebih banyak pilihan menu dan tingkatkan kualitas hidangan.  
 
-1. **Clone the Repository**:
+📌 **Kesimpulan**: Dengan pendekatan berbasis **data analytics & business intelligence**, maskapai dapat meningkatkan pengalaman pelanggan secara signifikan!  
+
+---
+
+## 📊 **Dashboard Visualization**  
+
+🎯 **Lihat hasil analisis dalam bentuk dashboard interaktif!**  
+🔗 **[Dashboard Tableau](https://public.tableau.com/app/profile/yohanes.raditya.wirawan.aruan/viz/AirlineSatisfaction_17375339929560/Dashboard1)**  
+
+---
+
+## 🛠️ **How to Run the Project**  
+
+1️⃣ **Clone Repository Ini**  
    ```bash
    git clone https://github.com/yourusername/airline-passenger-satisfaction.git
    cd airline-passenger-satisfaction
-
-   
