@@ -80,6 +80,7 @@ Dataset ini berisi **25,976 data penumpang maskapai** dengan berbagai atribut la
 ## 📊 **Dashboard Visualization**  
 
 🎯 **Lihat hasil analisis dalam bentuk dashboard interaktif!**  
+![EDA_Banner1](Dashboard.png) 
 🔗 **[Dashboard Tableau](https://public.tableau.com/app/profile/yohanes.raditya.wirawan.aruan/viz/AirlineSatisfaction_17375339929560/Dashboard1)**  
 
 ---
